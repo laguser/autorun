@@ -1,0 +1,17 @@
+{
+  "name": "autorun-manager",
+  "version": "1.0.0",
+  "description": "Менеджер автозагрузки Windows",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-powershell": "^5.0.1"
+  },
+  "devDependencies": {
+    "electron": "^30.0.1"
+  }
+}
