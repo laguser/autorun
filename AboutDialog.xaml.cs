@@ -19,12 +19,12 @@ namespace autorun
 
         private void Telegram_Click(object sender, RoutedEventArgs e)
         {
-            OpenUrl("https://t.me/laguser");
+            OpenUrl("https://t.me/lagusertg");
         }
 
         private void YouTube_Click(object sender, RoutedEventArgs e)
         {
-            OpenUrl("https://youtube.com/@laguser");
+            OpenUrl("https://youtu.be/dQw4w9WgXcQ?list=RDdQw4w9WgXcQ");
         }
 
         private void GitHub_Click(object sender, RoutedEventArgs e)
